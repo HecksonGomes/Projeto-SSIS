@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="2/20/2023 8:01:17 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="VX-17"
+  DTS:CreatorName="VX-17\Vx Telerradiologia"
+  DTS:DTSID="{9E29E205-54F7-4DC5-8D1B-CDFEB7A61696}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5035.3"
+  DTS:LocaleID="1046"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{AD8CC375-5048-41CC-8FB3-409B2B615452}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
