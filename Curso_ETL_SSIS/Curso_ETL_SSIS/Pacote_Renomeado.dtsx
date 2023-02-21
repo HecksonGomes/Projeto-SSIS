@@ -11,8 +11,8 @@
   DTS:LocaleID="1046"
   DTS:ObjectName="Pacote_Renomeado"
   DTS:PackageType="5"
-  DTS:VersionBuild="2"
-  DTS:VersionGUID="{A93C312B-5603-48AB-842A-A2180365540A}">
+  DTS:VersionBuild="3"
+  DTS:VersionGUID="{022C2822-53E8-4B81-983C-EF5925F335CD}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
@@ -24,20 +24,5 @@
 <Objects
   Version="8">
   <!--Each node below will contain properties that do not affect runtime behavior.-->
-  <Package
-    design-time-name="Package">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <AnnotationLayout
-          Text="Cuidado quando renomear o pacote antes de salvar"
-          ParentId="Package"
-          FontInfo="{assembly:Null}"
-          Size="535,60"
-          Id="223b5f88-ca74-40bf-910f-3f6bfdec7288"
-          TopLeft="168,64" />
-      </GraphLayout>
-    </LayoutInfo>
-  </Package>
 </Objects>]]></DTS:DesignTimeProperties>
 </DTS:Executable>
